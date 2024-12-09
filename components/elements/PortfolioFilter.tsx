@@ -65,7 +65,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development design">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://www.assiduous.solutions/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/assiduous.avif" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/assiduous.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://www.assiduous.solutions/" className="project-card-content">
@@ -78,10 +78,26 @@ export default function PortfolioFilter() {
               </div>
             </div>
           </div>
+          <div className="filter-item col-lg-4 col-12 development design">
+            <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
+              <a target="_blank" href="https://paperjet.ai/">
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/paperjet.png" alt="infinia" />
+              </a>
+              <div className="d-flex align-items-center mt-4">
+                <a target="_blank" href="https://www.assiduous.solutions/" className="project-card-content">
+                  <h4 className="fw-semibold">Paperjet</h4>
+                  <p>Web Design & Web Development</p>
+                </a>
+                <a target="_blank" href="https://www.assiduous.solutions/" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
+                  <i className="ri-arrow-right-up-line" />
+                </a>
+              </div>
+            </div>
+          </div>
           <div className="filter-item col-lg-4 col-12 development ">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://talent-hub.pages.dev/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/talent.webp" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/talenthub.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://talent-hub.pages.dev/" className="project-card-content">
@@ -97,7 +113,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development design">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://engineersguildltd.com/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/eg.webp" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/eg.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://engineersguildltd.com/" className="project-card-content">
@@ -113,7 +129,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12  design">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/swiss.webp" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/swiss.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="" className="project-card-content">
@@ -129,7 +145,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development design">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/otto.webp" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/otto.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="" className="project-card-content">
@@ -145,7 +161,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development ">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://marketeqdigital.com/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/marketeq.avif" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/marketeq.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://marketeqdigital.com/" className="project-card-content">
@@ -161,7 +177,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development design">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://www.citizensofthewild.com/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/citizen.avif" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/citizen.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://www.citizensofthewild.com/" className="project-card-content">
@@ -177,7 +193,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development ">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://tools-market.vercel.app/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/tool.avif" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/tool.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://tools-market.vercel.app/" className="project-card-content">
@@ -193,7 +209,7 @@ export default function PortfolioFilter() {
           <div className="filter-item col-lg-4 col-12 development ">
             <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
               <a target="_blank" href="https://downlight.vercel.app/">
-                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/downlight.webp" alt="infinia" />
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/downlight.png" alt="infinia" />
               </a>
               <div className="d-flex align-items-center mt-4">
                 <a target="_blank" href="https://downlight.vercel.app/" className="project-card-content">
@@ -201,6 +217,22 @@ export default function PortfolioFilter() {
                   <p> Web Design & Development</p>
                 </a>
                 <a target="_blank" href="https://downlight.vercel.app/" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
+                  <i className="ri-arrow-right-up-line" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="filter-item col-lg-4 col-12 development ">
+            <div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
+              <a target="_blank" href="https://downlight.vercel.app/">
+                <img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/dogpost.png" alt="The DOg Post" />
+              </a>
+              <div className="d-flex align-items-center mt-4">
+                <a target="_blank" href="https://downlight.vercel.app/" className="project-card-content">
+                  <h4 className="fw-semibold">Dog Post</h4>
+                  <p> Web Design</p>
+                </a>
+                <a target="_blank" href="/" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
                   <i className="ri-arrow-right-up-line" />
                 </a>
               </div>

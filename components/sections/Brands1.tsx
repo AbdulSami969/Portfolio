@@ -17,17 +17,50 @@ export default function Brands1() {
         <div className="container-fluid">
           {/* Carausel Scroll */}
           <Marquee className="carouselTicker carouselTicker-right mt-5 position-relative z-1" direction="right">
-            <ul className="carouselTicker__list">
+            <ul
+              className="carouselTicker__list"
+              style={{
+                filter: "brightness(0) saturate(100%) invert(90%) sepia(10%) saturate(0%) hue-rotate(180deg)",
+                opacity: 0.7,
+              }}
+            >
               <li className="carouselTicker__item">
-                <img src="/assets/imgs/brands/brands-1/logo-1.png" alt="infinia" />
+                <img src="/assets/imgs/brands/brands-1/Frame 1759.png" width="250" alt="infinia" />
               </li>
               <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1760.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1761.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1762.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1763.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1764.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1765.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1766.png" width="250" alt="infinia" />
+              </li>
+              <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Frame 1767.png" width="250" alt="infinia" />
+              </li>
+              {/* <li className="carouselTicker__item">
+                <img src="/assets/imgs/brands/brands-1/Talent Hub.png" width="250" alt="infinia" />
+              </li> */}
+              {/* <li className="carouselTicker__item">
                 <img src="/assets/imgs/brands/brands-1/logo-2.png" alt="infinia" />
               </li>
               <li className="carouselTicker__item">
                 <img src="/assets/imgs/brands/brands-1/logo-3.png" alt="infinia" />
-              </li>
-              <li className="carouselTicker__item">
+              </li> */}
+              {/* <li className="carouselTicker__item">
                 <img src="/assets/imgs/brands/brands-1/logo-4.png" alt="infinia" />
               </li>
               <li className="carouselTicker__item">
@@ -47,7 +80,7 @@ export default function Brands1() {
               </li>
               <li className="carouselTicker__item">
                 <img src="/assets/imgs/brands/brands-1/logo-10.png" alt="infinia" />
-              </li>
+              </li> */}
             </ul>
           </Marquee>
         </div>
